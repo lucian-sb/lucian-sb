@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @lucian-sb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in javascript and data science
+- 🌱 I’m currently learning python
+- 📫 luciansantos@ymail.com
 
-<!---
-lucian-sb/lucian-sb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
