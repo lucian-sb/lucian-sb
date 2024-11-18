@@ -56,8 +56,8 @@ Welcome to my little corner of GitHub! 🚀 I’m passionate about turning ideas
 
 - 📧 **Email:** [luciansantos@ymail.com](mailto:luciansantos@ymail.com)
 - 🐦 **Twitter:** [@lucian-dev](https://twitter.com/l_cian)
-- 💼 **LinkedIn:** [Lucian Santos](https://linkedin.com/in/lucian-santos)
-- 🌐 **Portfolio:** [lucian.com.br](https:www.luciansantos.com.br)
+- 💼 **LinkedIn:** [Lucian Santos](https://www.linkedin.com/in/luciansantos/)
+- 🌐 **Portfolio:** [lucian.com.br](https://www.luciansantos.com.br)
 
 ---
 
