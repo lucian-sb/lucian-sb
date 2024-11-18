@@ -11,6 +11,10 @@ Welcome to my little corner of GitHub! 🚀 I’m passionate about turning ideas
 - 🌱 I’m currently sharpening my skills in **Python** and exploring its endless possibilities.
 - 🔍 Always curious, always learning something new every day.
 
+- <p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZ0NWo2N3AyYnIxaTZsMG00empseHp1NmdueWY4Y295c3d1cW9idSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)" alt="Coding GIF" width="500">
+</p>
+
 ---
 
 ## 🛠️ Technologies & Tools I Use
@@ -51,9 +55,9 @@ Welcome to my little corner of GitHub! 🚀 I’m passionate about turning ideas
 ## 📫 Let's Connect!
 
 - 📧 **Email:** [luciansantos@ymail.com](mailto:luciansantos@ymail.com)
-- 🐦 **Twitter:** [@lucian-dev](https://twitter.com/lucian-dev)
-- 💼 **LinkedIn:** [Lucian Santos](https://linkedin.com/in/lucian-santos)
-- 🌐 **Portfolio:** [lucian-dev.com](https://lucian-dev.com)
+- 🐦 **Twitter:** [@lucian-dev](https://twitter.com/l_cian)
+- 💼 **LinkedIn:** [Lucian Santos]([https://linkedin.com/in/lucian-santos](https://www.linkedin.com/in/luciansantos/))
+- 🌐 **Portfolio:** [lucian-dev.com](https:www.luciansantos.com.br)
 
 ---
 
