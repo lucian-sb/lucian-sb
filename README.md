@@ -11,8 +11,8 @@ Welcome to my little corner of GitHub! 🚀 I’m passionate about turning ideas
 - 🌱 I’m currently sharpening my skills in **Python** and exploring its endless possibilities.
 - 🔍 Always curious, always learning something new every day.
 
-- <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZ0NWo2N3AyYnIxaTZsMG00empseHp1NmdueWY4Y295c3d1cW9idSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)" alt="Coding GIF" width="500">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500">
 </p>
 
 ---
