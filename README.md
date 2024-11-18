@@ -12,7 +12,7 @@ Welcome to my little corner of GitHub! 🚀 I’m passionate about turning ideas
 - 🔍 Always curious, always learning something new every day.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndhbzIybG9zdml3YmZsZ3o2NW5jczkzcG9oYmh4eGJiY20zeGZ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y853jRq5TrMHVGn4nl/giphy.webp" alt="Coding GIF" width="250">
 </p>
 
 ---
